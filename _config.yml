@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 encoding: utf-8
 
 # SEO相关信息
@@ -90,8 +89,3 @@ extMath: false
 #     url: https://muye.ml
 #   - title: Stansec
 #     url: https://standeblog.com/
-=======
-theme: jekyll-theme-cayman
-title: Vinnie's homepage
-description: Bookmark this to keep an eye on my project updates!
->>>>>>> b7c978cbf876f321ae2c8de89227a31192801222
